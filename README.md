@@ -19,12 +19,10 @@ For a detailed explanation of the game's code and mechanics, please refer to [th
 Contributions to the project are welcome. Please fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is open-sourced under the MIT License. See the LICENSE file for more information.
+This project is open-sourced under the MIT License. See the [LICENSE file](LICENSE) for more information.
 
 ## Acknowledgments
 Special thanks to everyone who contributed to the development and documentation of this educational game.
-
----
 
 ### MIT License
 Copyright (c) 2023 Larbi OUIYZME
