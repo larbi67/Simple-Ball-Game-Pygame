@@ -13,7 +13,7 @@ To run this game, you need Python and Pygame installed on your machine. Download
 - **Adjustable Speed**: The game's speed can be adjusted to suit different player skills and hardware capabilities.
 
 ## Article and Screenshots
-For a detailed explanation of the game's code and mechanics, please refer to [this article]([#](https://larbi-ouiyzme.medium.com/empowering-youth-through-game-development-in-stem-education-a-python-and-pygame-approach-816cbd591555)). Additionally, you can find some in-game screenshots [here](screenshot.png).
+For a detailed explanation of the game's code and mechanics, please refer to [this article](https://larbi-ouiyzme.medium.com/empowering-youth-through-game-development-in-stem-education-a-python-and-pygame-approach-816cbd591555). Additionally, you can find some in-game screenshots [here](screenshot.png).
 
 ## How to Contribute
 Contributions to the project are welcome. Please fork the repository, make your changes, and submit a pull request.
