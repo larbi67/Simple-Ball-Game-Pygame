@@ -4,8 +4,7 @@
 This Simple Ball Game is developed using Python and Pygame to illustrate key programming concepts in a fun and interactive way. The game demonstrates setting up the game environment, game mechanics, a scoring system, game-over conditions, and the main game loop. These elements introduce fundamental concepts like variables, data types, file operations, coordinates, conditions, loops, event handling, collision detection, and graphics rendering.
 
 ## How to Run the Game
-To run this game, you need Python and Pygame installed on your machine. Download the source code and execute the `main.py` file.
-
+To run this game, you need to have EduPython, which includes Python, installed on your machine. Download the source code along with the PNG files for the icon and background. Then, execute the Simple-Ball-Game-Pygame.py file to start the game.
 ## Features
 - **Game Environment**: Setup of the game window and loading of images.
 - **Game Mechanics**: Movement of the player and the ball with collision logic.
