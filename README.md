@@ -1,4 +1,4 @@
-# Simple Ball Game
+# Simple Ball Game with Pygame
 
 ## Description
 This Simple Ball Game is developed using Python and Pygame to illustrate key programming concepts in a fun and interactive way. The game demonstrates setting up the game environment, game mechanics, a scoring system, game-over conditions, and the main game loop. These elements introduce fundamental concepts like variables, data types, file operations, coordinates, conditions, loops, event handling, collision detection, and graphics rendering.
